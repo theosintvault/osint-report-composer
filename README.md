@@ -1,18 +1,14 @@
-# OSINT Report Composer
+# Report Composer
 
-A purpose-built analyst workspace designed to bridge the gap between raw data collection and final intelligence reporting. This tool provides a structured environment for investigators to document findings, organize evidence, and compose professional reports in a standardized format.
+Dynamic intelligence delivery system designed for the generation of standardized, professional OSINT reports.
 
-### [Live Tool Link](https://theosintvault.io/report-composer)
+[Launch Composer](https://theosintvault.io)
 
-### Functionality
-*   **Evidence Organization:** Categorize findings by target, source, and priority.
-*   **Structured Templates:** Pre-defined sections for executive summaries, subject profiles, and technical infrastructure analysis.
-*   **Export Ready:** Format investigative notes into clean, professional outputs for stakeholders.
-*   **Analyst Note-Taking:** Dedicated space for maintaining a chronological log of investigative steps.
+## Core Capabilities
+* Schema Validation: Ensures all intelligence output meets standardized reporting protocols.
+* Modular Export: Generate redacted or full-spectrum briefings in multiple formats.
+* Integrity Management: Automated timestamping and source attribution for every report module.
 
-### Technical Notes & Privacy
-The Report Composer is a client-side utility. All data entered into the composer is stored locally in the browser's session or memory. No investigative data, subject names, or report contents are ever transmitted to or stored on The OSINT Vault servers.
-
-### Part of The OSINT Vault
-This composer is part of a larger suite of investigative tools.
-Website: [theosintvault.io](https://theosintvault.io)
+## Technical Specifications
+* Architecture: Client-side rendering
+* Output Formats: PDF / Markdown / JSON
